@@ -19,4 +19,4 @@ Earlier: **Red Cup Games**, where I designed, manufactured, and shipped a tablet
 
 Open to Technical Account Manager and technical customer-success roles at developer-tool and API companies, and to contract work.
 
-[davidjones89@gmail.com](mailto:davidjones89@gmail.com) · [linkedin.com/in/davidjones89](https://www.linkedin.com/in/davidjones89) · [mainthread.ai](https://mainthread.ai)
+[david@mainthread.ai](mailto:david@mainthread.ai) · [linkedin.com/in/davidjones89](https://www.linkedin.com/in/davidjones89) · [mainthread.ai](https://mainthread.ai)
