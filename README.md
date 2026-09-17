@@ -6,8 +6,8 @@ I build the tooling I support.
 
 | Work | What it is | Where it stands |
 | --- | --- | --- |
-| **[Multithread](https://github.com/SuperDuperDave/multithread)** | Codex and Claude Code call each other and coordinate through a durable local SQLite ledger. Built on the Python standard library. | Public, MIT · 746 tests · 15 checksummed releases with installers in five days · [case study](https://mainthread.ai/work/relay/) |
-| **api-partner-health** | Reads partner API telemetry and writes the account brief: which partners to call, the evidence, the ask. Rebuilt from a prototype I wrote as a TAM. | Private · 553 tests · synthetic data · runs locally |
+| **[Multithread](https://github.com/SuperDuperDave/multithread)** | Codex and Claude Code call each other and coordinate through a durable local SQLite ledger. Built on the Python standard library. | Public, MIT · 15 checksummed releases with installers in five days · [case study](https://mainthread.ai/work/relay/) |
+| **api-partner-health** | Reads partner API telemetry and writes the account brief: which partners to call, the evidence, the ask. Rebuilt from a prototype I wrote as a TAM. | Private · synthetic data · runs locally from a seed |
 | **[Zoning Signal](https://zoningsignal.com)** | Searchable record of planning and zoning across Central Florida. Its MCP server is published in the official MCP registry as `com.zoningsignal/observatory`. | Live · 551 documents, 25+ municipalities · 8 server releases · serving external agent traffic |
 | **[IC(R/W)-RRF](https://github.com/SuperDuperDave/ic-rw-rrf)** | Adaptive rank fusion with per-document confidence routing, measured on TREC DL 2019. | Public, MIT |
 
